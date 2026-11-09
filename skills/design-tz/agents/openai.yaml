@@ -1,0 +1,7 @@
+interface:
+  display_name: "Дизайн ТЗ"
+  short_description: "Понятные ТЗ для дизайнеров с примерами и проверками"
+  icon_large: "./assets/preview.png"
+  default_prompt: "Используй $design-tz: подготовь ТЗ для дизайнера по моим материалам, без отдельного брифа, с целью, списком изменений, ссылками и конкретными проверками."
+policy:
+  allow_implicit_invocation: true
